@@ -4,7 +4,7 @@
 }
 
 body{
-  background-image: url("img/clock.jpg");
+  background-color: #ede4e4;
   height: 100vh;
   display: flex;
   justify-content: center;
